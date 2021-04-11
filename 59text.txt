@@ -1,0 +1,6 @@
+Common numbers(count):
+88(77), 80(107), 69(86), 29(70), 25(42), 23(46),
+22(56), 21(65), 17(73), 12(65), 11(43), 10(52), 4(61)
+
+first is code in euler text, second is my guess
+code (assuming ends with .): p, t, 

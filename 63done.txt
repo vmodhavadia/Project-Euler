@@ -1,0 +1,21 @@
+powers of 1: 1, 2, 3, 4, 5, 6, 7, 8, 9
+powers of 2: 4, 5, 6, 7, 8, 9
+powers of 3: 5, 6, 7, 8, 9
+powers of 4: 6, 7, 8, 9
+powers of 5: 7, 8, 9
+powers of 6: 7, 8, 9
+powers of 7: 8, 9
+powers of 8: 8, 9
+powers of 9: 8, 9
+powers of 10: 8, 9
+powers of 11: 9
+powers of 12: 9
+powers of 13: 9
+powers of 14: 9
+powers of 15: 9
+powers of 16: 9
+powers of 17: 9
+powers of 18: 9
+powers of 19: 9
+powers of 20: 9
+powers of 21: 9
